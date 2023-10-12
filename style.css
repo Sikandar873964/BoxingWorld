@@ -5,3 +5,12 @@
 .menu-bar {
     fill: #0d0d0d;
 }
+
+.banner{
+    display: block;
+}
+
+.product-image {
+    height: 300px;  
+    object-fit: cover;
+}
