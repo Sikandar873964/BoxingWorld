@@ -1,3 +1,7 @@
 .nav{
     display: flex;
 }
+
+.menu-bar {
+    fill: #0d0d0d;
+}
