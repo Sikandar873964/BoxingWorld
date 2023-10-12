@@ -1,6 +1,6 @@
-*{ 
+/* *{  
     outline: solid 1px red;
-}
+} */
 
 
 .menu-bar {
@@ -9,7 +9,8 @@
 
 .banner img{
     width: 100%;
-    height: 700%;
+    height: 30%;
+
 }
 
 .products img {
